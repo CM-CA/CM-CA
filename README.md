@@ -38,4 +38,4 @@ Me gusta viajar y conocer distintos lugares del mundo. Fuera del mundo de la tec
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cm-ca&show_icons=true&theme=dark)
+![CM-CA GitHub stats](https://github-readme-stats.vercel.app/api?username=cm-ca&show_icons=true&theme=dark)
