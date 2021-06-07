@@ -1,4 +1,4 @@
-# Hello There! <img src="https://i.pinimg.com/originals/7e/96/aa/7e96aaf60d262643f27b899753bd51fb.gif" width=90>
+<h1 align="center"><img src="https://i.pinimg.com/originals/7e/96/aa/7e96aaf60d262643f27b899753bd51fb.gif" width=250></h1>
 
 <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
