@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cm-ca" alt="cm-ca" /></a> </p>
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 - 🌱 I’m currently learning **React, VueJs**
 
 - 🤝 I’m looking for help with **finding a new job**
