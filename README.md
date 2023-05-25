@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cm-ca&label=Profile%20views&color=0e75b6&style=flat" alt="cm-ca" /> </p>
 
-<img
+<p align="left"><img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=CM-CA&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+/></p>
 
 - 🌱 I’m currently learning **React, VueJs**
 
